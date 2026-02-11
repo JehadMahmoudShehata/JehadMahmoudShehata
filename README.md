@@ -1,14 +1,15 @@
 <div align="center">
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/curiousily/awesome-gif-coding/master/hello-coders.gif"
-    width="60%"
-    alt="Hello Coders"
-  />
+
+<div align="center" width="100%">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+
+</div>
 </p>
 
-<h1>Hi 👋 I'm Jehad Mahmoud Shehata</h1>
+<h1>Hi 👋 I'm Jehad Mahmoud Shehata<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
 <h3>
 “Mastering the fundamentals to build the future.” ✨
@@ -64,7 +65,7 @@ I'm passionate about **programming and continuous learning**.
 
 ---
 
-## 🏆 My Achievements
+## 🏆 My Achievements 
 - ✅ Solved **100+ programming challenges** in C++  
 - 🔥 Built a **strong foundation in problem-solving & logical thinking**  
 - 💡 Developed a **consistent daily coding habit**  
@@ -89,6 +90,9 @@ I'm passionate about **programming and continuous learning**.
 - ☕ Code with focus… and sometimes a little coffee boost! 🚀
 
 ---
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
+</div>
 
 ## 📊 GitHub Stats
 <p align="center">
