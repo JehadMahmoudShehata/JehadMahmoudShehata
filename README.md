@@ -98,6 +98,7 @@ I'm passionate about **programming and continuous learning**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JehadMahmoudShehata&layout=compact&theme=radical" width="45%"/>
 </p>
 
+
 ---
 
 ## 🌐 Connect With Me
