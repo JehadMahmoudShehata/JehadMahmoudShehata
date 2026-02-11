@@ -51,11 +51,9 @@ I'm passionate about **programming and continuous learning**.
 
 ## 📚 My Learning Journey
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/curiousily/awesome-gif-coding/master/coding-study.gif"  width="200"
-    alt="Learning Journey"
-  />
-</p>
 
+- 🔹**Abu-Hadhoud Roadmap**
+  
 - 🔹 Diving deep into **C++ fundamentals**  
 - 🔹 Solving **real-world problems** to strengthen my logic  
 - 🔹 Writing **clean, readable, and efficient code** every day  
@@ -75,12 +73,7 @@ I'm passionate about **programming and continuous learning**.
 
 ## 🧩 My Problem-Solving Mindset
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/curiousily/awesome-gif-coding/master/idea-light.gif"
-    width="120"
-    alt="Problem Solving"
-  />
-</p>
+
 
 - 🧠 **Think deeply** before touching the keyboard  
 - ✍️ Break problems into **small, manageable steps**  
