@@ -56,7 +56,6 @@ I'm passionate about **programming and continuous learning**.
     alt="Learning Journey"
   />
 </p>
-
 - 🔹 Diving deep into **C++ fundamentals**  
 - 🔹 Solving **real-world problems** to strengthen my logic  
 - 🔹 Writing **clean, readable, and efficient code** every day  
@@ -82,7 +81,6 @@ I'm passionate about **programming and continuous learning**.
     alt="Problem Solving"
   />
 </p>
-
 - 🧠 **Think deeply** before touching the keyboard  
 - ✍️ Break problems into **small, manageable steps**  
 - 🔄 **Practice daily** to sharpen my logic  
