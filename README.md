@@ -94,9 +94,10 @@ I'm passionate about **programming and continuous learning**.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JehadMahmoudShehata&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JehadMahmoudShehata&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JehadMahmoudShehata&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JehadMahmoudShehata&theme=tokyonight" width="45%"/>
 </p>
+
 
 
 ---
