@@ -50,12 +50,11 @@ I'm passionate about **programming and continuous learning**.
 
 ## 📚 My Learning Journey
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/curiousily/awesome-gif-coding/master/coding-study.gif"
-    width="200"
+  <img  src="https://raw.githubusercontent.com/curiousily/awesome-gif-coding/master/coding-study.gif"  width="200"
     alt="Learning Journey"
   />
 </p>
+
 - 🔹 Diving deep into **C++ fundamentals**  
 - 🔹 Solving **real-world problems** to strengthen my logic  
 - 🔹 Writing **clean, readable, and efficient code** every day  
@@ -81,6 +80,7 @@ I'm passionate about **programming and continuous learning**.
     alt="Problem Solving"
   />
 </p>
+
 - 🧠 **Think deeply** before touching the keyboard  
 - ✍️ Break problems into **small, manageable steps**  
 - 🔄 **Practice daily** to sharpen my logic  
@@ -107,7 +107,7 @@ I'm passionate about **programming and continuous learning**.
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
 
-<a href="https://  www.linkedin.com/in/jehad-mahmoud-shehata-aa80903ab/">
+<a href="https://www.linkedin.com/in/jehad-mahmoud-shehata-aa80903ab/">
 
 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
