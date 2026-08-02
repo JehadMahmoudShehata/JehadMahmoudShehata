@@ -8,5 +8,3 @@ My name is Jehad Mahmoud Shehata. I am a self-taught software engineer with an e
 
 I focus deeply on computer science fundamentals, building strong problem-solving logic, and understanding how systems work under the hood.
 
-* **What I do:** Mastering core programming concepts and problem-solving logic using C++.
-* **My approach:** I believe in thorough visualization, planning the architecture before coding, and writing clean, maintainable systems.
